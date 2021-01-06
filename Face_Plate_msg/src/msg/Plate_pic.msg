@@ -1,0 +1,10 @@
+string vin
+string deviceId
+uint32 pictureType
+string licenseNum
+uint32 plateColor
+uint32 carColor
+uint32 carType
+uint64 capTime
+string licensePlatePicture
+string licensePlateScenePicture

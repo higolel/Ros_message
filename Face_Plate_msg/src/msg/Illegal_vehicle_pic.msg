@@ -1,0 +1,30 @@
+string vin
+string deviceId
+uint32 pictureType
+string license
+float64 longitude
+float64 latitude
+uint64 capTime
+string illegalPictureName
+string illegalPicture
+string illegalFileName
+string PASSTIME
+string CARSTATE
+string CAEPLATE
+string PLATETYPE
+string SPEED
+string PLATECOLOR
+string LOCATIONID
+string DRIVEWAY
+string DRIVEDIR
+string CAPTUREDIR
+string CARCOLOR
+string CARBRAND
+string TGSID
+string PLATECOORD
+string CABCOORD
+string IMGID1
+string IMGID2
+string IMGID3
+
+
