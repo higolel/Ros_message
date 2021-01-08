@@ -1,6 +1,8 @@
 string vin
 string deviceId
 uint32 pictureType
+float64 lon
+float64 lat
 string licenseNum
 uint32 plateColor
 uint32 carColor

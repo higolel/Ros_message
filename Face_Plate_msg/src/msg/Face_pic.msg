@@ -1,6 +1,8 @@
 string vin
 string deviceId
 uint32 pictureType
+float64 lon
+float64 lat
 uint32 sex
 uint32 age
 uint32 facialExpression
